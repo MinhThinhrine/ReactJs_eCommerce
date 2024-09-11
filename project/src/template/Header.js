@@ -19,7 +19,7 @@ function Header() {
 
     return (
         <header>
-            <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-white border-bottom">
+            <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-white border-bottom ">
                 <div className="container-fluid">
                     <Link className="navbar-brand" to="/" onClick={changeNav}>
                         <FontAwesomeIcon icon={faT} beat size="lg" style={{color: "#000000",}} />                        <span className="ms-2 h5">Shop</span>

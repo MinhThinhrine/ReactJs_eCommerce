@@ -4,6 +4,7 @@ import ProductH from "./ProductH";
 import {useEffect, useState} from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import ScrollToTopOnMount from "../template/ScrollToTopOnMount";
+import {dataItems} from "./dataItems";
 
 
 const categories = [
@@ -99,6 +100,19 @@ function FilterMenuLeft() {
 
 function ProductList() {
   const [viewType, setViewType] = useState({ grid: true });
+  const [products, setProducts] = useState([]);
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const allProducts = await dataItems(); // Gọi hàm lấy tất cả sản phẩm
+        // const xixaomiProducts = await getXiaomiItems();
+        setProducts(allProducts);
+      } catch (error) {
+        console.error("Error fetching data: ", error);
+      }
+    };
+    fetchData();
+  }, []);
   function changeViewType() {
     setViewType({
       grid: !viewType.grid,
@@ -222,24 +236,23 @@ function ProductList() {
                 (viewType.grid ? "row-cols-xl-3" : "row-cols-xl-2")
               }
             >
-              {/*{products.slice(0, 10).map((product, i) => {*/}
-              {/*  if (viewType.grid) {*/}
-              {/*    return (*/}
-              {/*        <Product*/}
-              {/*            key={product.id} // Use a unique identifier from your product*/}
-              {/*            product={product}*/}
-              {/*            percentOff={i % 2 === 0 ? 15 : null}*/}
-              {/*        />*/}
-              {/*    );*/}
-              {/*  }*/}
-              {/*  return (*/}
-              {/*      <ProductH*/}
-              {/*          key={product.id} // Use a unique identifier from your product*/}
-              {/*          product={product}*/}
-              {/*          percentOff={i % 4 === 0 ? 15 : null}*/}
-              {/*      />*/}
-              {/*  );*/}
-              {/*})}*/}
+              {products.slice(0, 10).map((item, i) => {
+                if (viewType.grid) {
+                  return (
+                      <Product
+                          key={i} // Use a unique identifier from your product
+                          item={item}
+                      />
+                  );
+                }
+                return (
+                    <ProductH
+                        key={i} // Use a unique identifier from your product
+                        item={item}
+                        percentOff={i % 4 === 0 ? 15 : null}
+                    />
+                );
+              })}
             </div>
             <div className="d-flex align-items-center mt-auto">
               <span className="text-muted small d-none d-md-inline">

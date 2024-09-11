@@ -32,7 +32,7 @@ function ProductH(props) {
               <img
                 className="rounded-start bg-dark cover w-100 h-100"
                 alt=""
-                src={Image}
+                src={props.item.img_url}
               />
             </Link>
           </div>
@@ -40,10 +40,10 @@ function ProductH(props) {
             <div className="card-body h-100">
               <div className="d-flex flex-column h-100">
                 <h5 className="card-title text-dark text-truncate mb-1">
-                  {props.name}
+                  {props.item.name}
                 </h5>
                 <span className="card-text text-muted mb-2 flex-shrink-0">
-                  {props.price}
+                  {props.item.price}
                 </span>
                 <div className="mt-auto d-flex">
                   <button className="btn btn-outline-dark ms-auto">

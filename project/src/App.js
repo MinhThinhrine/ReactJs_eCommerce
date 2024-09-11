@@ -3,6 +3,7 @@ import ProductDetail from "./products/detail/ProductDetail";
 import { Routes, Route } from "react-router-dom";
 import Landing from "./landing/Landing";
 import ProductList from "./products/ProductList";
+import Content from "./template/Content";
 
 function App() {
   return (

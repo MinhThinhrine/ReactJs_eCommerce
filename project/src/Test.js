@@ -22,16 +22,16 @@ const ProductList = () => {
         };
         fetchData();
     }, []);
+
     const changeType = (type) => () => {
-        const newProducts = products.filter(product => product.name && product.name.toLowerCase().startsWith(type));
-        setTypeProduct(type);
-        setProducts(newProducts);
-        console.log(typeProduct);
+        setTypeProduct(type); // Set the selected type
     };
-    useEffect(() => {
-        setProducts(newProducts);
-        console.log(newProducts);
-    }, [typeProduct]);
+
+    // Filter products based on the selected type
+    const filteredProducts = products.filter(product =>
+        product.name && product.name.toLowerCase().startsWith(typeProduct.toLowerCase())
+    );
+
     return (
         <div>
             <h1>Product List</h1>
@@ -39,11 +39,11 @@ const ProductList = () => {
             {type.map((item) => (
                 <button
                     className="bg-blue-500 ml-1 text-white font-bold py-2 px-4 rounded hover:bg-blue-700 transition duration-200"
-                    onClick={changeType(item)}>
+                    onClick={changeType(item)} >
                     {item}
                 </button>
             ))}
-            {products.slice(0, 10).map((product) => {
+            {filteredProducts.slice(0, 10).map((product) => {
                 return (
                     <div key={product.id} id={product.id}>
                         <h2>{product.name}</h2>
