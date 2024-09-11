@@ -4,7 +4,8 @@
             "name": "Xiaomi Redmi 12 5G NFC",
             "price": "2.750.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-12-5g-p820.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/09/08/resized/redmi-12-trang_1725788974.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.79 inch, IPS LCD, 90Hz, 550 nits",
@@ -35,7 +36,8 @@
             "name": "vivo iQOO Neo9S Pro+",
             "price": "10.350.000₫",
             "detail_link": "https://dienthoaihay.vn/iqoo/vivo-iqoo-neo9s-pro-p800.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/08/31/resized/iqoo-neo-9s-pro-plus_1725085345.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.78 inch, LTPO AMOLED, 1B màu, 144Hz, HDR10+, 1400 nits (HBM)",
@@ -66,7 +68,8 @@
             "name": "Realme GT Neo6 SE 5G",
             "price": "6.550.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/realme-gt-neo6-se-p729.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/04/11/resized/171265678236005ad24019fea46ab82b_1712810451.png",
+            "specs": {
                 "Thẻ SIM:": "2 sim nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.78 inch, LTPO AMOLED, 1B colors, 120Hz, HDR, 1600 nits (HBM), 6000 nits (peak)",
@@ -98,7 +101,8 @@
             "name": "Xiaomi Redmi 13R 5G",
             "price": "2.490.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-13r-p819.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/09/08/resized/redmi-13r_1725789285.jpg",
+            "specs": {
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.74 inch, IPS LCD, 90Hz, 450 nits (typ), 600 nits (HBM)",
                 "Độ phân giải:": "720 x 1600 pixels, 20:9",
@@ -128,7 +132,8 @@
             "name": "Xiaomi Redmi K70 Ultra 5G",
             "price": "9.490.000₫",
             "detail_link": "https://dienthoaihay.vn/redmi/xiaomi-redmi-k70-ultra-p812.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/07/19/resized/o1cn01o78rtp24luxbcsd96_6000000007432-0-remus_1721406572.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, 5G",
                 "Kiểu thiết kế:": "Điện thoại di động",
                 "Màn hình:": "6.67 inch, OLED, 68B màu, 144Hz, Dolby Vision, HDR10+, 1600 nits (HBM), 4000 nits (tối đa)",
@@ -159,7 +164,8 @@
             "name": "Xiaomi Redmi Note 11T Pro Plus 5G",
             "price": "3.990.000₫",
             "detail_link": "https://dienthoaihay.vn/redmi/xiaomi-redmi-note-11t-pro-plus-p474.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2022/05/26/resized/bạc_1653530771.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 Nano SIM, 2 sóng Online",
                 "Màn hình:": "6.6 inches, IPS LCD, 144Hz, HDR10",
                 "Độ phân giải:": "FullHD+ 1080 x 2460 pixels",
@@ -190,7 +196,8 @@
             "name": "vivo iQOO Z9 Turbo 5G",
             "price": "7.090.000₫",
             "detail_link": "https://dienthoaihay.vn/iqoo/vivo-iqoo-z9-turbo-p781.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/07/08/resized/z9-turbo_1720401974.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.78 inch, AMOLED, 1B màu, 144Hz, HDR, 4500 nits (tối đa)",
@@ -221,7 +228,8 @@
             "name": "Xiaomi Redmi Turbo 3",
             "price": "5.690.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-turbo-3-p730.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/05/03/resized/redmi-turbo-3_1714697632.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.67 inch, AMOLED, 68B màu, 120Hz, Dolby Vision, HDR10+, 2400 nits (tối đa)",
@@ -252,7 +260,8 @@
             "name": "Xiaomi Redmi Note 13 5G",
             "price": "3.490.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-note-13-5g-p705.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/09/25/resized/untitled--13-thuong-trang_1695629380.gif",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, Nano SIM",
                 "Màn hình:": "6.67 inches, AMOLED, 1B colors, 120Hz, 1000 nits (peak)",
                 "Độ phân giải:": "1080 x 2400 pixels",
@@ -280,7 +289,8 @@
             "name": "Xiaomi 13 5G",
             "price": "8.950.000₫",
             "detail_link": "https://dienthoaihay.vn/mi/xiaomi-13-p510.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/01/24/resized/xiaomi-13_1706060828.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 Nano SIM, 2 sóng Online",
                 "Màn hình:": "6.36 inches, OLED, 120Hz, Dolby Vision, HDR10+, 1200 nits (HBM), 1900 nits (peak)",
                 "Độ phân giải:": "FullHD+ 1080 x 2400 pixels, 20:9 ratio",
@@ -311,7 +321,8 @@
             "name": "Xiaomi Redmi Pad Pro",
             "price": "4.790.000₫",
             "detail_link": "https://dienthoaihay.vn/redmi/xiaomi-redmi-pad-pro-p767.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/05/03/resized/redmi-pad-pro_1714697588.jpg",
+            "specs": {
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "12.1 inch, IPS LCD, 120Hz, Dolby Vision, 600 nits",
                 "Độ phân giải:": "1600 x 2560 pixels, 16:10",
@@ -341,7 +352,8 @@
             "name": "Xiaomi Redmi Note 12 5G",
             "price": "2.790.000₫",
             "detail_link": "https://dienthoaihay.vn/redmi-note/xiaomi-redmi-note-12-p526.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/03/21/resized/note-12-den_1679381732.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, NanoSIM",
                 "Màn hình:": "6,67 inch, AMOLED, 120Hz, 1200 nits",
                 "Độ phân giải:": "Full HD+ (1080 x 2400 pixels), tỷ lệ 20:9",
@@ -371,7 +383,8 @@
             "name": "Xiaomi Redmi Note 12 Turbo Edition",
             "price": "4.890.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-note-12-turbo-edition-p601.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/03/29/resized/12-turbo-trắng_1680088156.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, Nano SIM",
                 "Màn hình:": "6.67 inches, 107.4 cm2, OLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 1000 nits (HBM)",
                 "Độ phân giải:": "1080 x 2400 pixels",
@@ -399,7 +412,8 @@
             "name": "Xiaomi Redmi K70E 5G",
             "price": "5.890.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-k70e-5g-p717.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/12/01/resized/redmi-k70e-trang_1701408206.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim Nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "thanh cảm ứng",
                 "Màn hình:": "6.67 inches, OLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 1800 nits",
@@ -431,7 +445,8 @@
             "name": "Xiaomi Redmi Note 13 Pro 5G",
             "price": "4.690.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-note-13-pro-5g-p706.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/09/25/resized/untitled-13-pro-tism_1695628029.gif",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, Nano SIM",
                 "Màn hình:": "6.67 inches, AMOLED, 68B colors, 120Hz, Dolby Vision, 1800 nits (peak)",
                 "Độ phân giải:": "1220 x 2712 pixels",
@@ -457,7 +472,8 @@
             "name": "Xiaomi Redmi Note 13 Pro Plus 5G",
             "price": "6.490.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-note-13-pro-plus-5g-p704.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/01/24/resized/note-13-pro-plus_1706060965.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, Nano SIM",
                 "Màn hình:": "6.67 inches, OLED, 1 tỷ màu, 120Hz, Dolby Vision, HDR10+, 500 nits (typ), 900 nits (HBM)",
                 "Độ phân giải:": "1080 x 2400 pixels",
@@ -480,7 +496,8 @@
             "name": "Xiaomi Redmi K70 Pro 5G",
             "price": "10.090.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-k70-pro-5g-p715.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/12/01/resized/redmi-k70-pro-xanh_1701405988.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim Nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "thanh cảm ứng",
                 "Màn hình:": "6.67 inches, OLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 4000 nits",
@@ -512,7 +529,8 @@
             "name": "Xiaomi Redmi K70 5G",
             "price": "7.850.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-k70-5g-p716.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/12/01/resized/redmi-k70-trang_1701407084.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim Nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "thanh cảm ứng",
                 "Màn hình:": "6.67 inches, OLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 4000 nits",
@@ -544,7 +562,8 @@
             "name": "Lenovo Xiaoxin Pad 2024",
             "price": "3.090.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/lenovo-xiaoxin-pad-2024-p774.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/04/21/resized/lenovo-xiaoxin-pad-2024-tim_1713686837.jpg",
+            "specs": {
                 "Thẻ SIM:": "Không",
                 "Kiểu thiết kế:": "Cảm ứng",
                 "Màn hình:": "LCD 11 inch 400 nits",
@@ -571,7 +590,8 @@
             "name": "Xiaomi Redmi Pad SE",
             "price": "3.090.000₫",
             "detail_link": "https://dienthoaihay.vn/redmi/xiaomi-redmi-pad-se-p769.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/04/18/resized/pms_169510667960419342_1713406253.png",
+            "specs": {
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "11.0 inch, IPS LCD, 90Hz, 400 nits (typ)",
                 "Độ phân giải:": "1200 x 1920 pixels, 16:10",
@@ -601,7 +621,8 @@
             "name": "iPhone 14 Pro Max chính hãng VN/A",
             "price": "24.690.000₫",
             "detail_link": "https://dienthoaihay.vn/iphone/iphone-14-pro-max-chinh-hang-vna-p492.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2022/09/12/resized/vang_1662970924.jpg",
+            "specs": {
                 "Thẻ SIM:": "Nano + eSim",
                 "Kiểu thiết kế:": "2 mặt kính, khung thép",
                 "Màn hình:": "6.7 inches, LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 2000 nits",
@@ -633,7 +654,8 @@
             "name": "iPhone 13 mới chính hãng VN/A",
             "price": "15.090.000₫",
             "detail_link": "https://dienthoaihay.vn/iphone/iphone-13-chinh-hang-vna-p377.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2021/09/29/resized/13_1632878128.jpg",
+            "specs": {
                 "Thẻ SIM:": "Nano + eSim",
                 "Màn hình:": "6.1 inches, Super Retina XDR OLED, HDR10, Dolby Vision, 1200 nits",
                 "Độ phân giải:": "1170 x 2532 pixels, tỷ lệ 19.5:9",
@@ -664,7 +686,8 @@
             "name": "iPhone 11 mới chính hãng VN/A",
             "price": "8.990.000₫",
             "detail_link": "https://dienthoaihay.vn/iphone/iphone-11-chinh-hang-vna-1-p234.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2022/03/22/resized/trang_1607225962jpg_1647935195.jpg",
+            "specs": {
                 "Thẻ SIM:": "Nano + eSim",
                 "Màn hình:": "6.1 inches, Liquid Retina IPS LCD, 625 nits",
                 "Độ phân giải:": "HD+ 828 x 1792 pixels, tỷ lệ 19.5:9",
@@ -695,7 +718,8 @@
             "name": "Apple Watch SE 44mm LTE Chính Hãng VN/A",
             "price": "3.990.000₫",
             "detail_link": "https://dienthoaihay.vn/iphone/apple-watch-se-44mm-lte-vien-nhom-chinh-hang-p628.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/04/27/resized/ap-watch-se-gray_1682582236.jpg",
+            "specs": {
                 "Thẻ SIM:": "eSim",
                 "Kiểu thiết kế:": "khung viền nhôm",
                 "Màn hình:": "1.78 inches, Retina LTPO OLED, 1000 nits (peak)",
@@ -722,7 +746,8 @@
             "name": "iPhone 14 Pro chính hãng VN/A",
             "price": "22.490.000₫",
             "detail_link": "https://dienthoaihay.vn/iphone/iphone-14-pro-chinh-hang-vna-p491.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2022/09/12/resized/tim_1662970546.jpg",
+            "specs": {
                 "Thẻ SIM:": "Nano + eSim",
                 "Kiểu thiết kế:": "2 mặt kính, khung thép",
                 "Màn hình:": "6.1 inches, LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 2000 nits",
@@ -754,7 +779,8 @@
             "name": "Xiaomi Redmi 12 5G NFC",
             "price": "2.750.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-12-5g-p820.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/09/08/resized/redmi-12-trang_1725788974.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.79 inch, IPS LCD, 90Hz, 550 nits",
@@ -785,7 +811,8 @@
             "name": "Xiaomi Redmi 13R 5G",
             "price": "2.490.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-13r-p819.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/09/08/resized/redmi-13r_1725789285.jpg",
+            "specs": {
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.74 inch, IPS LCD, 90Hz, 450 nits (typ), 600 nits (HBM)",
                 "Độ phân giải:": "720 x 1600 pixels, 20:9",
@@ -815,7 +842,8 @@
             "name": "Xiaomi Redmi Turbo 3",
             "price": "5.690.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-turbo-3-p730.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/05/03/resized/redmi-turbo-3_1714697632.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.67 inch, AMOLED, 68B màu, 120Hz, Dolby Vision, HDR10+, 2400 nits (tối đa)",
@@ -846,7 +874,8 @@
             "name": "Xiaomi Redmi Note 13 5G",
             "price": "3.490.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-note-13-5g-p705.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/09/25/resized/untitled--13-thuong-trang_1695629380.gif",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, Nano SIM",
                 "Màn hình:": "6.67 inches, AMOLED, 1B colors, 120Hz, 1000 nits (peak)",
                 "Độ phân giải:": "1080 x 2400 pixels",
@@ -874,7 +903,8 @@
             "name": "Xiaomi Redmi Note 12 Turbo Edition",
             "price": "4.890.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-note-12-turbo-edition-p601.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/03/29/resized/12-turbo-trắng_1680088156.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, Nano SIM",
                 "Màn hình:": "6.67 inches, 107.4 cm2, OLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 1000 nits (HBM)",
                 "Độ phân giải:": "1080 x 2400 pixels",
@@ -902,7 +932,8 @@
             "name": "Xiaomi Redmi K70E 5G",
             "price": "5.890.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-k70e-5g-p717.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/12/01/resized/redmi-k70e-trang_1701408206.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim Nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "thanh cảm ứng",
                 "Màn hình:": "6.67 inches, OLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 1800 nits",
@@ -934,7 +965,8 @@
             "name": "Xiaomi Redmi Note 13 Pro 5G",
             "price": "4.690.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-note-13-pro-5g-p706.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/09/25/resized/untitled-13-pro-tism_1695628029.gif",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, Nano SIM",
                 "Màn hình:": "6.67 inches, AMOLED, 68B colors, 120Hz, Dolby Vision, 1800 nits (peak)",
                 "Độ phân giải:": "1220 x 2712 pixels",
@@ -960,7 +992,8 @@
             "name": "Xiaomi Redmi Note 13 Pro Plus 5G",
             "price": "6.490.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-note-13-pro-plus-5g-p704.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/01/24/resized/note-13-pro-plus_1706060965.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, Nano SIM",
                 "Màn hình:": "6.67 inches, OLED, 1 tỷ màu, 120Hz, Dolby Vision, HDR10+, 500 nits (typ), 900 nits (HBM)",
                 "Độ phân giải:": "1080 x 2400 pixels",
@@ -983,7 +1016,8 @@
             "name": "Xiaomi Redmi K70 Pro 5G",
             "price": "10.090.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-k70-pro-5g-p715.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/12/01/resized/redmi-k70-pro-xanh_1701405988.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim Nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "thanh cảm ứng",
                 "Màn hình:": "6.67 inches, OLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 4000 nits",
@@ -1015,7 +1049,8 @@
             "name": "Xiaomi Redmi K70 5G",
             "price": "7.850.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-k70-5g-p716.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/12/01/resized/redmi-k70-trang_1701407084.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim Nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "thanh cảm ứng",
                 "Màn hình:": "6.67 inches, OLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 4000 nits",
@@ -1047,7 +1082,8 @@
             "name": "Samsung Galaxy Z Flip6",
             "price": "28.990.000₫",
             "detail_link": "https://dienthoaihay.vn/samsung/samsung-galaxy-z-flip6-p798.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/07/11/resized/vn-galaxy-zflip6-f741-513550-sm-f741blgaxxv-542637095-copy_1720713854.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, 5G",
                 "Kiểu thiết kế:": "Điện thoại gập",
                 "Màn hình:": "6.7 inch, Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (tối đa)",
@@ -1078,7 +1114,8 @@
             "name": "Samsung Galaxy Z Fold6",
             "price": "43.990.000₫",
             "detail_link": "https://dienthoaihay.vn/samsung/samsung-galaxy-z-fold6-p797.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/07/11/resized/product_color_silvershadow_pc_1720713440.png",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, 5G",
                 "Kiểu thiết kế:": "Điện thoại gập",
                 "Màn hình:": "7.6 inch, Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (tối đa)",
@@ -1109,7 +1146,8 @@
             "name": "Samsung Galaxy Watch3 45mm thép dây da Chính hãng",
             "price": "1.890.000₫",
             "detail_link": "https://dienthoaihay.vn/samsung/samsung-galaxy-watch3-45mm-thep-day-da-chinh-hang-p639.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/05/19/resized/untitled-1_1684485283.jpg",
+            "specs": {
                 "Thẻ SIM:": "eSim",
                 "Kiểu thiết kế:": "khung viền thép, dây da",
                 "Màn hình:": "1.4 inches, Super AMOLED",
@@ -1136,7 +1174,8 @@
             "name": "Samsung Galaxy A22 chính hãng",
             "price": "3.490.000₫",
             "detail_link": "https://dienthoaihay.vn/samsung/samsung-galaxy-a22-chinh-hang-p440.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2022/02/15/resized/tim_1644913671.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 Nano SIM- 2 sóng online",
                 "Màn hình:": "6.4 inches, Super AMOLED, 90Hz, 600 nits",
                 "Độ phân giải:": "720 x 1600 pixels, 20:9 ratio",
@@ -1167,7 +1206,8 @@
             "name": "Samsung Galaxy A12 chính hãng",
             "price": "2.350.000₫",
             "detail_link": "https://dienthoaihay.vn/samsung/samsung-galaxy-a12-chinh-hang-p328.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2021/05/28/resized/xanh_1622216253.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 Nano SIM- 2 sóng online",
                 "Màn hình:": "6.5 inches, PLS IPS",
                 "Độ phân giải:": "720 x 1600 pixels",
@@ -1198,7 +1238,8 @@
             "name": "Realme GT Neo6 SE 5G",
             "price": "6.550.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/realme-gt-neo6-se-p729.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/04/11/resized/171265678236005ad24019fea46ab82b_1712810451.png",
+            "specs": {
                 "Thẻ SIM:": "2 sim nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.78 inch, LTPO AMOLED, 1B colors, 120Hz, HDR, 1600 nits (HBM), 6000 nits (peak)",
@@ -1230,7 +1271,8 @@
             "name": "Lenovo Xiaoxin Pad 2024",
             "price": "3.090.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/lenovo-xiaoxin-pad-2024-p774.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/04/21/resized/lenovo-xiaoxin-pad-2024-tim_1713686837.jpg",
+            "specs": {
                 "Thẻ SIM:": "Không",
                 "Kiểu thiết kế:": "Cảm ứng",
                 "Màn hình:": "LCD 11 inch 400 nits",
@@ -1257,7 +1299,8 @@
             "name": "Realme V30T 5G",
             "price": "2.390.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/realme-v30t-p772.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/04/18/resized/1675733706047-1_1713407951.png",
+            "specs": {
                 "Thẻ SIM:": "2 sim nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.5 inch, IPS LCD, 600 nits",
@@ -1285,7 +1328,8 @@
             "name": "Realme 12 Pro Plus 5G",
             "price": "6.390.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/realme-12-pro-plus-p726.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/02/29/resized/realme-12-pro-plus-vang_1709190298.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim nano",
                 "Kiểu thiết kế:": "mặt lưng nhựa/ giả da, khung viền nhựa",
                 "Màn hình:": "6.7 inches, AMOLED, 1B colors, 120Hz, 800 nits (HBM), 950 nits (peak)",
@@ -1316,7 +1360,8 @@
             "name": "Realme GT6 5G",
             "price": "10.590.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/realmme-p796.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/07/09/resized/1720487887138c89a5700bb9c44938ad_1720511046.png",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, 5G",
                 "Kiểu thiết kế:": "Điện thoại di động",
                 "Màn hình:": "6.78 inch, LTPO AMOLED 120Hz, độ sáng 6000 nits",
@@ -1348,7 +1393,8 @@
             "name": "Realme GT Neo6 SE 5G",
             "price": "6.550.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/realme-gt-neo6-se-p729.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/04/11/resized/171265678236005ad24019fea46ab82b_1712810451.png",
+            "specs": {
                 "Thẻ SIM:": "2 sim nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.78 inch, LTPO AMOLED, 1B colors, 120Hz, HDR, 1600 nits (HBM), 6000 nits (peak)",
@@ -1380,7 +1426,8 @@
             "name": "Realme 12 Pro 5G",
             "price": "4.790.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/realme-12-pro-p725.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/02/29/resized/realme-12-pro-xanh_1709189021.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim nano",
                 "Kiểu thiết kế:": "mặt lưng nhựa/ giả da, khung viền nhựa",
                 "Màn hình:": "6.7 inches, AMOLED, 1B colors, 120Hz, 800 nits (HBM), 950 nits (peak)",
@@ -1411,7 +1458,8 @@
             "name": "OPPO A3",
             "price": "5.990.000₫",
             "detail_link": "https://dienthoaihay.vn/oppo/oppo-a3-p799.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/07/11/resized/oppo-a3---xanh-mint_1720714358.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.7 inch, AMOLED, 1B màu, 120Hz, 600 nits (typ), 1200 nits (tối đa)",
@@ -1442,7 +1490,8 @@
             "name": "OPPO Reno12 F",
             "price": "9.490.000₫",
             "detail_link": "https://dienthoaihay.vn/oppo/oppo-reno12-f-p795.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/07/05/resized/440-440-orange-v2_1720195746.png",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.67 inch, AMOLED, 1B màu, 120Hz, 600 nits (typ), 1200 nits (HMB), 2100 nits (tối đa)",
@@ -1473,7 +1522,8 @@
             "name": "OPPO Reno12 Pro",
             "price": "18.990.000₫",
             "detail_link": "https://dienthoaihay.vn/oppo/oppo-reno12-pro-p794.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/07/05/resized/reno-12-pro-1-696x843_1720195365.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.7 inch, AMOLED, 1B màu, 120Hz, HDR10+, 1200 nits (tối đa)",
@@ -1504,7 +1554,8 @@
             "name": "OPPO Reno12",
             "price": "12.990.000₫",
             "detail_link": "https://dienthoaihay.vn/oppo/oppo-reno12-p793.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/07/05/resized/reno-12-4-696x843_1720195257.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.7 inch, AMOLED, 1B màu, 120Hz, HDR10+, 1200 nits (tối đa)",
@@ -1535,7 +1586,8 @@
             "name": "OPPO K12",
             "price": "6.990.000₫",
             "detail_link": "https://dienthoaihay.vn/oppo/oppo-k12-p780.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/04/28/resized/41e0556cada35b777eb6721a84065308-588488056_1714297980.png",
+            "specs": {
                 "Thẻ SIM:": "2 sim nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.7 inch, AMOLED, 1B màu, 120Hz, HDR10+, 500 nits (typ), 900 nits (HBM), 1100 nits (tối đa)",
@@ -1566,7 +1618,8 @@
             "name": "HMD Barbie",
             "price": "3.490.000₫",
             "detail_link": "https://dienthoaihay.vn/nokia/hmd-barbie-p816.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/08/28/resized/barbie-flip-phone-2_1724860881.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, 4G",
                 "Kiểu thiết kế:": "Điện thoại nắp gập phổ thông",
                 "Màn hình:": "2.8 inch, TFT LCD",
@@ -1598,7 +1651,8 @@
             "name": "Nokia C12 Plus",
             "price": "2.390.000₫",
             "detail_link": "https://dienthoaihay.vn/nokia/nokia-c12-plus-p615.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/04/05/resized/nokia-xanh-mint_1680694414.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim",
                 "Kiểu thiết kế:": "mặt lưng nhựa, khung viền nhựa",
                 "Màn hình:": "6.3 inches, 99.1 cm2 , IPS LCD",
@@ -1626,7 +1680,8 @@
             "name": "Nokia 2.4 chính hãng mới đã kích hoạt",
             "price": "1.790.000₫",
             "detail_link": "https://dienthoaihay.vn/nokia/nokia-24-chinh-hang-p322.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2021/05/11/resized/nokia-24_4__1620719042.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 nano sim - 2 sóng online",
                 "Màn hình:": "6.5 inches IPS LCD",
                 "Độ phân giải:": "720 x 1600 pixels",
@@ -1657,7 +1712,8 @@
             "name": "Nokia 5.3 chính hãng",
             "price": "2.390.000₫",
             "detail_link": "https://dienthoaihay.vn/nokia/nokia-53-da-active-p216.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2020/10/23/resized/denjpg_1603453881.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 nano sim - 2 sóng online",
                 "Màn hình:": "6.55 inches, IPS LCD, 450 nits",
                 "Độ phân giải:": "720 x 1600 pixels",
@@ -1688,7 +1744,8 @@
             "name": "Xiaomi Redmi 12 5G NFC",
             "price": "2.750.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-12-5g-p820.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/09/08/resized/redmi-12-trang_1725788974.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.79 inch, IPS LCD, 90Hz, 550 nits",
@@ -1719,7 +1776,8 @@
             "name": "Xiaomi Redmi 13R 5G",
             "price": "2.490.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-13r-p819.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/09/08/resized/redmi-13r_1725789285.jpg",
+            "specs": {
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.74 inch, IPS LCD, 90Hz, 450 nits (typ), 600 nits (HBM)",
                 "Độ phân giải:": "720 x 1600 pixels, 20:9",
@@ -1749,7 +1807,8 @@
             "name": "Xiaomi Redmi K70 Ultra 5G",
             "price": "9.490.000₫",
             "detail_link": "https://dienthoaihay.vn/redmi/xiaomi-redmi-k70-ultra-p812.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/07/19/resized/o1cn01o78rtp24luxbcsd96_6000000007432-0-remus_1721406572.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, 5G",
                 "Kiểu thiết kế:": "Điện thoại di động",
                 "Màn hình:": "6.67 inch, OLED, 68B màu, 144Hz, Dolby Vision, HDR10+, 1600 nits (HBM), 4000 nits (tối đa)",
@@ -1780,7 +1839,8 @@
             "name": "Xiaomi Redmi Note 11T Pro Plus 5G",
             "price": "3.990.000₫",
             "detail_link": "https://dienthoaihay.vn/redmi/xiaomi-redmi-note-11t-pro-plus-p474.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2022/05/26/resized/bạc_1653530771.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 Nano SIM, 2 sóng Online",
                 "Màn hình:": "6.6 inches, IPS LCD, 144Hz, HDR10",
                 "Độ phân giải:": "FullHD+ 1080 x 2460 pixels",
@@ -1811,7 +1871,8 @@
             "name": "Xiaomi Redmi Turbo 3",
             "price": "5.690.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-turbo-3-p730.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/05/03/resized/redmi-turbo-3_1714697632.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.67 inch, AMOLED, 68B màu, 120Hz, Dolby Vision, HDR10+, 2400 nits (tối đa)",
@@ -1842,7 +1903,8 @@
             "name": "Xiaomi Redmi Note 13 5G",
             "price": "3.490.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-note-13-5g-p705.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/09/25/resized/untitled--13-thuong-trang_1695629380.gif",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, Nano SIM",
                 "Màn hình:": "6.67 inches, AMOLED, 1B colors, 120Hz, 1000 nits (peak)",
                 "Độ phân giải:": "1080 x 2400 pixels",
@@ -1870,7 +1932,8 @@
             "name": "Xiaomi 13 5G",
             "price": "8.950.000₫",
             "detail_link": "https://dienthoaihay.vn/mi/xiaomi-13-p510.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/01/24/resized/xiaomi-13_1706060828.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 Nano SIM, 2 sóng Online",
                 "Màn hình:": "6.36 inches, OLED, 120Hz, Dolby Vision, HDR10+, 1200 nits (HBM), 1900 nits (peak)",
                 "Độ phân giải:": "FullHD+ 1080 x 2400 pixels, 20:9 ratio",
@@ -1901,7 +1964,8 @@
             "name": "Xiaomi Redmi Pad Pro",
             "price": "4.790.000₫",
             "detail_link": "https://dienthoaihay.vn/redmi/xiaomi-redmi-pad-pro-p767.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/05/03/resized/redmi-pad-pro_1714697588.jpg",
+            "specs": {
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "12.1 inch, IPS LCD, 120Hz, Dolby Vision, 600 nits",
                 "Độ phân giải:": "1600 x 2560 pixels, 16:10",
@@ -1931,7 +1995,8 @@
             "name": "Xiaomi Redmi Note 12 5G",
             "price": "2.790.000₫",
             "detail_link": "https://dienthoaihay.vn/redmi-note/xiaomi-redmi-note-12-p526.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/03/21/resized/note-12-den_1679381732.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, NanoSIM",
                 "Màn hình:": "6,67 inch, AMOLED, 120Hz, 1200 nits",
                 "Độ phân giải:": "Full HD+ (1080 x 2400 pixels), tỷ lệ 20:9",
@@ -1961,7 +2026,8 @@
             "name": "Xiaomi Redmi Note 12 Turbo Edition",
             "price": "4.890.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-note-12-turbo-edition-p601.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/03/29/resized/12-turbo-trắng_1680088156.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, Nano SIM",
                 "Màn hình:": "6.67 inches, 107.4 cm2, OLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 1000 nits (HBM)",
                 "Độ phân giải:": "1080 x 2400 pixels",
@@ -1989,7 +2055,8 @@
             "name": "Xiaomi Redmi K70E 5G",
             "price": "5.890.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-k70e-5g-p717.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/12/01/resized/redmi-k70e-trang_1701408206.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim Nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "thanh cảm ứng",
                 "Màn hình:": "6.67 inches, OLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 1800 nits",
@@ -2021,7 +2088,8 @@
             "name": "Xiaomi Redmi Note 13 Pro 5G",
             "price": "4.690.000₫",
             "detail_link": "https://dienthoaihay.vn/xiaomi/xiaomi-redmi-note-13-pro-5g-p706.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/09/25/resized/untitled-13-pro-tism_1695628029.gif",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, Nano SIM",
                 "Màn hình:": "6.67 inches, AMOLED, 68B colors, 120Hz, Dolby Vision, 1800 nits (peak)",
                 "Độ phân giải:": "1220 x 2712 pixels",
@@ -2047,7 +2115,8 @@
             "name": "vivo iQOO Neo9S Pro+",
             "price": "10.350.000₫",
             "detail_link": "https://dienthoaihay.vn/iqoo/vivo-iqoo-neo9s-pro-p800.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/08/31/resized/iqoo-neo-9s-pro-plus_1725085345.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.78 inch, LTPO AMOLED, 1B màu, 144Hz, HDR10+, 1400 nits (HBM)",
@@ -2078,7 +2147,8 @@
             "name": "Realme GT Neo6 SE 5G",
             "price": "6.550.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/realme-gt-neo6-se-p729.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/04/11/resized/171265678236005ad24019fea46ab82b_1712810451.png",
+            "specs": {
                 "Thẻ SIM:": "2 sim nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.78 inch, LTPO AMOLED, 1B colors, 120Hz, HDR, 1600 nits (HBM), 6000 nits (peak)",
@@ -2110,7 +2180,8 @@
             "name": "vivo iQOO Z9 Turbo 5G",
             "price": "7.090.000₫",
             "detail_link": "https://dienthoaihay.vn/iqoo/vivo-iqoo-z9-turbo-p781.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/07/08/resized/z9-turbo_1720401974.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.78 inch, AMOLED, 1B màu, 144Hz, HDR, 4500 nits (tối đa)",
@@ -2141,7 +2212,8 @@
             "name": "vivo iQOO Z9 5G",
             "price": "4.990.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/vivo-iqoo-z9-p782.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/07/09/resized/iqoo-z9_1720484100.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.78 inch, AMOLED, 1B màu, 144Hz, HDR, 4500 nits (tối đa)",
@@ -2172,7 +2244,8 @@
             "name": "Lenovo Xiaoxin Pad 2024",
             "price": "3.090.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/lenovo-xiaoxin-pad-2024-p774.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/04/21/resized/lenovo-xiaoxin-pad-2024-tim_1713686837.jpg",
+            "specs": {
                 "Thẻ SIM:": "Không",
                 "Kiểu thiết kế:": "Cảm ứng",
                 "Màn hình:": "LCD 11 inch 400 nits",
@@ -2199,7 +2272,8 @@
             "name": "Realme V50/V50S 5G",
             "price": "2.790.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/realme-v50s-p771.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/04/18/resized/170226044840005a941e75a9f4d129ad_1713407547.png",
+            "specs": {
                 "Thẻ SIM:": "2 sim nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.72 inch, IPS LCD, 120Hz",
@@ -2229,7 +2303,8 @@
             "name": "realme GT Neo 5 5G 150W",
             "price": "7.050.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/realme-gt-neo-5-5g-p525.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/02/09/resized/neo-6_1675954506.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 SIM, NanoSIM",
                 "Màn hình:": "AMOLED, 1 tỷ màu, 144Hz, HDR 10+\r\n6.74 inches, 2,772x1,240-pixel\r\nCorning Gorilla Glass 6\r\nCảm biến vân tay dưới màn hình",
                 "Độ phân giải:": "1240 x 2772 pixels, 20:9",
@@ -2260,7 +2335,8 @@
             "name": "Realme GT Neo5 SE 5G",
             "price": "5.990.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/realme-gt-neo-5-se-5g-p572.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/04/15/resized/neo-5se-fan_1681545905.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 nano sim, 2 sóng online",
                 "Màn hình:": "6.74 inches, 109.2 cm2, OLED, 1B colors, 144Hz, 1400 nits",
                 "Độ phân giải:": "1240 x 2772 pixels, 20:9 ratio",
@@ -2290,7 +2366,8 @@
             "name": "realme Q5 Pro (realme GT Neo 3T)",
             "price": "4.590.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/realme-q5-pro-p461.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2022/06/27/resized/vang_1650506568jpg_1656295802.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 nano sim, 2 sóng online",
                 "Kiểu thiết kế:": "Khung viền nhựa, mặt lưng nhựa",
                 "Màn hình:": "6.62 inches, AMOLED, 120Hz, HDR10+, 1300 nits",
@@ -2322,7 +2399,8 @@
             "name": "Realme GT Neo6",
             "price": "7.690.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/realme-gt-neo-6-p664.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/05/09/resized/1715161156550689b36c19d09494b959b970fe4c96874_1715261522.png",
+            "specs": {
                 "Thẻ SIM:": "2 sim nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.78 inch, LTPO AMOLED, 1B màu, 120Hz, HDR, 1600 nits (HBM), 6000 nits (tối đa)",
@@ -2353,7 +2431,8 @@
             "name": "realme GT Neo 3 5G",
             "price": "5.250.000₫",
             "detail_link": "https://dienthoaihay.vn/realme/realme-gt-neo-3-p453.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2022/04/02/resized/thumbnailgtneo3_1648906082.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 nano sim, 2 sóng online",
                 "Màn hình:": "6.7 inches, AMOLED, 120Hz, HDR10+",
                 "Độ phân giải:": "FullHD+ 1080 x 2412 pixels, 20:9 ratio",
@@ -2384,7 +2463,8 @@
             "name": "iPhone 14 Pro Max chính hãng VN/A",
             "price": "24.690.000₫",
             "detail_link": "https://dienthoaihay.vn/iphone/iphone-14-pro-max-chinh-hang-vna-p492.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2022/09/12/resized/vang_1662970924.jpg",
+            "specs": {
                 "Thẻ SIM:": "Nano + eSim",
                 "Kiểu thiết kế:": "2 mặt kính, khung thép",
                 "Màn hình:": "6.7 inches, LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 2000 nits",
@@ -2416,7 +2496,8 @@
             "name": "iPhone 13 mới chính hãng VN/A",
             "price": "15.090.000₫",
             "detail_link": "https://dienthoaihay.vn/iphone/iphone-13-chinh-hang-vna-p377.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2021/09/29/resized/13_1632878128.jpg",
+            "specs": {
                 "Thẻ SIM:": "Nano + eSim",
                 "Màn hình:": "6.1 inches, Super Retina XDR OLED, HDR10, Dolby Vision, 1200 nits",
                 "Độ phân giải:": "1170 x 2532 pixels, tỷ lệ 19.5:9",
@@ -2447,7 +2528,8 @@
             "name": "iPhone 11 mới chính hãng VN/A",
             "price": "8.990.000₫",
             "detail_link": "https://dienthoaihay.vn/iphone/iphone-11-chinh-hang-vna-1-p234.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2022/03/22/resized/trang_1607225962jpg_1647935195.jpg",
+            "specs": {
                 "Thẻ SIM:": "Nano + eSim",
                 "Màn hình:": "6.1 inches, Liquid Retina IPS LCD, 625 nits",
                 "Độ phân giải:": "HD+ 828 x 1792 pixels, tỷ lệ 19.5:9",
@@ -2478,7 +2560,8 @@
             "name": "Apple Watch SE 44mm LTE Chính Hãng VN/A",
             "price": "3.990.000₫",
             "detail_link": "https://dienthoaihay.vn/iphone/apple-watch-se-44mm-lte-vien-nhom-chinh-hang-p628.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/04/27/resized/ap-watch-se-gray_1682582236.jpg",
+            "specs": {
                 "Thẻ SIM:": "eSim",
                 "Kiểu thiết kế:": "khung viền nhôm",
                 "Màn hình:": "1.78 inches, Retina LTPO OLED, 1000 nits (peak)",
@@ -2505,7 +2588,8 @@
             "name": "iPhone 14 Pro chính hãng VN/A",
             "price": "22.490.000₫",
             "detail_link": "https://dienthoaihay.vn/iphone/iphone-14-pro-chinh-hang-vna-p491.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2022/09/12/resized/tim_1662970546.jpg",
+            "specs": {
                 "Thẻ SIM:": "Nano + eSim",
                 "Kiểu thiết kế:": "2 mặt kính, khung thép",
                 "Màn hình:": "6.1 inches, LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 2000 nits",
@@ -2537,7 +2621,8 @@
             "name": "iPhone 14 chính hãng VN/A",
             "price": "16.990.000₫",
             "detail_link": "https://dienthoaihay.vn/iphone/iphone-14-chinh-hang-vna-p489.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2022/09/12/resized/tim_1662964379.jpg",
+            "specs": {
                 "Thẻ SIM:": "Nano + eSim",
                 "Kiểu thiết kế:": "2 mặt kính, khung nhôm",
                 "Màn hình:": "6.1 inches, Super Retina XDR OLED, HDR10, Dolby Vision, 1200 nits",
@@ -2569,7 +2654,8 @@
             "name": "Apple Watch Ultra 49mm LTE Chính Hãng dây Midnight Ocean",
             "price": "14.590.000₫",
             "detail_link": "https://dienthoaihay.vn/iphone/apple-watch-ultra-49mm-lte-chinh-hang-day-midnight-ocean-p629.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/04/27/resized/apple-watch-ultra_1682583699.jpg",
+            "specs": {
                 "Thẻ SIM:": "eSim",
                 "Kiểu thiết kế:": "khung viền nhôm",
                 "Màn hình:": "1.92 inches, Retina LTPO OLED, 2000 nits (peak)",
@@ -2595,7 +2681,8 @@
             "name": "iPhone 12 chính hãng VN/A",
             "price": "11.990.000₫",
             "detail_link": "https://dienthoaihay.vn/iphone/iphone-12-chinh-hang-vna-p214.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2022/03/21/resized/iphone-12-xanh_1614830057jpg_1647858237.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim (nano + esim)",
                 "Màn hình:": "6.1 inches, Super Retina XDR OLED, HDR10, Dolby Vision, 1200 nits",
                 "Độ phân giải:": "1170 x 2532 pixels, tỷ lệ 19.5:9",
@@ -2626,7 +2713,8 @@
             "name": "iPhone 14 Plus chính hãng VN/A",
             "price": "26.990.000₫",
             "detail_link": "https://dienthoaihay.vn/iphone/iphone-14-plus-chinh-hang-vna-p490.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2022/09/12/resized/xanh_1662970027.jpg",
+            "specs": {
                 "Thẻ SIM:": "Nano + eSim",
                 "Kiểu thiết kế:": "2 mặt kính, khung nhôm",
                 "Màn hình:": "6.7 inches, Super Retina XDR OLED, HDR10, Dolby Vision, 1200 nits",
@@ -2658,7 +2746,8 @@
             "name": "iPhone 13 Pro Max Quốc Tế Cũ",
             "price": "18.190.000₫",
             "detail_link": "https://dienthoaihay.vn/iphone/iphone-13-pro-max-quoc-te-cu-p413.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2021/11/22/resized/xanh_1637556301.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim (1vật lý+ 1esim)",
                 "Màn hình:": "6.7 inches, Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision",
                 "Độ phân giải:": "1284 x 2778 pixels, tỷ lệ 19.5:9",
@@ -2689,7 +2778,8 @@
             "name": "iPad Air 2 cũ Wifi 4G",
             "price": "2.590.000₫",
             "detail_link": "https://dienthoaihay.vn/ipad/ipad-air-2-cu-p190.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2020/10/02/resized/vang_1601603765.jpg",
+            "specs": {
                 "key_0": "GSM / CDMA / HSPA / EVDO / LTE",
                 "Màn hình:": "9.7 inch IPS LCD",
                 "Độ phân giải:": "1536 x 2048 pixels, tỷ lệ 4:3",
@@ -2711,7 +2801,8 @@
             "name": "iPad Air cũ 4G Wifi",
             "price": "2.090.000₫",
             "detail_link": "https://dienthoaihay.vn/ipad/ipad-air-cu-p47.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2020/08/10/resized/den_1597027881.jpg",
+            "specs": {
                 "key_0": "GSM / CDMA / HSPA / EVDO / LTE",
                 "Màn hình:": "9.7 inches, IPS LCD",
                 "Độ phân giải:": "1536 x 2048 pixels, tỷ lệ 4:3",
@@ -2733,7 +2824,8 @@
             "name": "iPad Gen 9 10.2 (2021) chính hãng",
             "price": "7.190.000₫",
             "detail_link": "https://dienthoaihay.vn/ipad/ipad-gen9-2021-p373.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2021/09/28/resized/xam_1632762629.jpg",
+            "specs": {
                 "key_0": "GSM / HSPA / LTE",
                 "Màn hình:": "10.2 inches, Retina IPS LCD",
                 "Độ phân giải:": "1620 x 2160 pixels, tỷ lệ 4:3",
@@ -2755,7 +2847,8 @@
             "name": "iPad Air 5 M1 10.9 inch (2022) WIFI chính hãng",
             "price": "11.790.000₫",
             "detail_link": "https://dienthoaihay.vn/ipad/ipad-air-5-2022-wifi-chinh-hang-p565.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/02/17/resized/ảnh-chụp-màn-hình-2023-02-16-lúc-201905_1676612648.png",
+            "specs": {
                 "key_0": "GSM / HSPA / LTE / 5G",
                 "Màn hình:": "10.9 inches, IPS LCD, 500 nits (typ)",
                 "Độ phân giải:": "1640 x 2360 pixels",
@@ -2777,7 +2870,8 @@
             "name": "iPad Pro 9.7 4G Wifi cũ",
             "price": "6.750.000₫",
             "detail_link": "https://dienthoaihay.vn/ipad/ipad-pro-97-cu-p169.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2020/09/10/resized/space-grey_1599726885.jpg",
+            "specs": {
                 "key_0": "GSM / CDMA / HSPA / EVDO / LTE",
                 "Màn hình:": "IPS LCD 9.7 inches 1536 x 2048 pixels, 120Hz touch-sensing",
                 "Độ phân giải:": "1536 x 2048 pixels, tỷ lệ 4:3",
@@ -2799,7 +2893,8 @@
             "name": "Samsung Galaxy S24 Ultra",
             "price": "21.490.000₫",
             "detail_link": "https://dienthoaihay.vn/galaxy-s/samsung-galaxy-s24-ultra-5g-chinh-hang-p787.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2024/05/30/resized/samsung-galaxy-s24-ultra-grey-thumb-600x600_1717058645.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 sim nano, hỗ trợ 5G",
                 "Kiểu thiết kế:": "Thanh cảm ứng",
                 "Màn hình:": "6.8 inch, Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (tối đa)",
@@ -2830,7 +2925,8 @@
             "name": "Samsung Galaxy Watch3 45mm thép dây da Chính hãng",
             "price": "1.890.000₫",
             "detail_link": "https://dienthoaihay.vn/samsung/samsung-galaxy-watch3-45mm-thep-day-da-chinh-hang-p639.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/05/19/resized/untitled-1_1684485283.jpg",
+            "specs": {
                 "Thẻ SIM:": "eSim",
                 "Kiểu thiết kế:": "khung viền thép, dây da",
                 "Màn hình:": "1.4 inches, Super AMOLED",
@@ -2857,7 +2953,8 @@
             "name": "Samsung Galaxy S22 Ultra 5G chính hãng",
             "price": "13.590.000₫",
             "detail_link": "https://dienthoaihay.vn/galaxy-s/samsung-galaxy-s22-ultra-5g-chinh-hang-p583.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/03/05/resized/s22-ultra-burgundy_1678012220.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 Nano-SIMs và eSIM",
                 "Kiểu thiết kế:": "mặt lưng kính, khung viền kim loại",
                 "Màn hình:": "6.8 inches, AMOLED 2X, 120Hz, HDR10+, 1750 nits",
@@ -2888,7 +2985,8 @@
             "name": "Samsung Galaxy A54 5G chính hãng",
             "price": "8.790.000₫",
             "detail_link": "https://dienthoaihay.vn/galaxy-a/samsung-galaxy-a54-p541.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/07/26/resized/galaxy-a54-den_1690363113.jpg",
+            "specs": {
                 "Thẻ SIM:": "1 SIM nano / 2 SIM nano",
                 "Màn hình:": "6.6 inches,Super AMOLED, 120Hz, 800 nits (HBM)",
                 "Độ phân giải:": "Full HD+ 1080 x 2400 pixels, 20:9 ratio",
@@ -2915,7 +3013,8 @@
             "name": "Samsung Galaxy A14 5G chính hãng",
             "price": "3.190.000₫",
             "detail_link": "https://dienthoaihay.vn/galaxy-a/samsung-galaxy-a14-5g-p519.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/07/20/resized/galaxy-a14-dong_1689815303.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 nano SIM",
                 "Màn hình:": "6.6 inches,PLS LCD, 90Hz",
                 "Độ phân giải:": "Full HD+, 1080 x 2400 pixels, tỉ lệ 20;9",
@@ -2944,7 +3043,8 @@
             "name": "Samsung Galaxy A22 chính hãng",
             "price": "3.490.000₫",
             "detail_link": "https://dienthoaihay.vn/samsung/samsung-galaxy-a22-chinh-hang-p440.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2022/02/15/resized/tim_1644913671.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 Nano SIM- 2 sóng online",
                 "Màn hình:": "6.4 inches, Super AMOLED, 90Hz, 600 nits",
                 "Độ phân giải:": "720 x 1600 pixels, 20:9 ratio",
@@ -2975,7 +3075,8 @@
             "name": "Samsung Galaxy A12 chính hãng",
             "price": "2.350.000₫",
             "detail_link": "https://dienthoaihay.vn/samsung/samsung-galaxy-a12-chinh-hang-p328.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2021/05/28/resized/xanh_1622216253.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 Nano SIM- 2 sóng online",
                 "Màn hình:": "6.5 inches, PLS IPS",
                 "Độ phân giải:": "720 x 1600 pixels",
@@ -3006,7 +3107,8 @@
             "name": "Samsung Galaxy S20 FE chính hãng",
             "price": "6.190.000₫",
             "detail_link": "https://dienthoaihay.vn/samsung/samsung-galaxy-s20-fe-chinh-hang-p434.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2022/01/21/resized/xanh-duong_1642730145.jpg",
+            "specs": {
                 "Thẻ SIM:": "2 nano sim - 2 sóng online",
                 "Màn hình:": "6.5 inches, Super AMOLED, 120Hz, HDR10+,",
                 "Độ phân giải:": "1080 x 2400 pixels, tỷ lệ 20:9",
@@ -3037,7 +3139,8 @@
             "name": "Samsung Galaxy A34 5G chính hãng",
             "price": "5.990.000₫",
             "detail_link": "https://dienthoaihay.vn/samsung/samsung-galaxy-a34-p573.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/07/26/resized/galaxy-a34-silver_1690362690.jpg",
+            "specs": {
                 "Thẻ SIM:": "1 Sim",
                 "Kiểu thiết kế:": "khung nhựa, mặt lưng nhựa",
                 "Màn hình:": "6.5 inches, Super AMOLED, 120Hz",
@@ -3064,7 +3167,8 @@
             "name": "Samsung Galaxy Tab A8 (2022) Chính Hãng",
             "price": "3.990.000₫",
             "detail_link": "https://dienthoaihay.vn/galaxy-tab/samsung-galaxy-tab-a8-2022-chinh-hang-p580.html",
-            "specifications": {
+            "img_url": "https://dienthoaihay.vn/images/products/2023/03/05/resized/tab-a8-2022-xám_1678002995.jpg",
+            "specs": {
                 "Thẻ SIM:": "1 Nano SIM",
                 "Kiểu thiết kế:": "Khung & Mặt lưng kim loại",
                 "Màn hình:": "TFT-LCD, 10.5 inches",
