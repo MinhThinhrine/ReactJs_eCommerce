@@ -1,7 +1,5 @@
 import "./bootstrap-custom.css";
 import "./index.css";
-import "bootstrap/dist/js/bootstrap.bundle.min.js";
-
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
@@ -12,6 +10,9 @@ import { fab } from "@fortawesome/free-brands-svg-icons";
 import { HashRouter as Router } from "react-router-dom";
 import Test from "./Test";
 import reportWebVitals from "./reportWebVitals";
+import Header from "./Component/Header";
+import Body from "./Component/Body";
+import Products from "./Component/Products";
 
 library.add(fas, far, fab);
 
@@ -19,9 +20,13 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
     <React.StrictMode>
         <Router>
-            <App/>
-            {/*<Test/>*/}
+            {/*<App/>*/}
+        {/*    /!*<Test/>*!/*/}
+            <Body/>
+            {/*<Products/>*/}
         </Router>
+        {/*<Header/>*/}
+
     </React.StrictMode>
 );
 
